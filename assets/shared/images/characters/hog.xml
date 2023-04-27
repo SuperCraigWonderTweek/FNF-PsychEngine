@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="hog.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HOG hey 00000" x="423" y="0" width="349" height="345" frameX="-7" frameY="-9" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="HOG down 00000" x="718" y="0" width="353" height="315" frameX="-11" frameY="-20" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="HOG idle 00000" x="786" y="304" width="271" height="375" frameX="-1" frameY="-19" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="HOG left 00000" x="0" y="0" width="426" height="359" frameX="0" frameY="-16" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="HOG right 00000" x="435" y="352" width="321" height="359" frameX="-12" frameY="-3" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="HOG up 00000" x="0" y="376" width="346" height="430" frameX="0" frameY="0" frameWidth="506" frameHeight="623"/>
+</TextureAtlas>
